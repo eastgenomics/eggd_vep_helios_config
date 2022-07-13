@@ -1,13 +1,16 @@
 # eggd_vep_helios_config
-Json configuration file for the implementation of VEP for the TSO500 assay.
 
-## What does this config do?
+This repo contains two files:
+    - JSON configuration file for the implementation of VEP for the TSO500 assay.
+    - A list of transcripts specific to the TSO500 assay
+
+## What does the JSON config do?
 
 Configuration file required to annotate a vcf using [Variant Effect Predictor](https://github.com/Ensembl/ensembl-vep) implementation [eggd_vep](https://github.com/eastgenomics/eggd_vep).
 
 A variable level of annotation can be achieved by different combinations of custom annotations and vep plugins, in addition to the required VEP resources.
 
-## What does this config version contain?
+## What does the JSON config version contain?
 
 This json file provides information about annotations,plugins, required fields and the genome version.
 
@@ -36,6 +39,13 @@ This json file provides information about annotations,plugins, required fields a
     * spliceai_scores.masked.indel.hg19.vcf.gz
 
 
+## What does the TSO500 list do?
+
+The TSO500 transcript list is intended to be passed to VEP to restrict the annotations to only the transcripts specific to the TSO500 assay.
+
+## What does the TSO500 transcript contain?
+
+A list of transcripts from a file provided by Illumina. Some edits have been made - [refer to the wiki for further details.](https://cuhbioinformatics.atlassian.net/wiki/spaces/SOL/pages/2730262542/TSO500+VEP+transcripts)
 
 ## Notes
   How to check the names of all the files included in the config:
