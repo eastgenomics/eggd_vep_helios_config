@@ -1,7 +1,7 @@
   {
     "config_information":{
         "genome_build": "GRCh37",
-        "assay":"TWE",
+        "assay":"TSO500",
         "config_version": "1.0.0"
     },
         "vep_resources":{
@@ -12,7 +12,6 @@
         "reference_fai":"project-Fkb6Gkj433GVVvj73J7x8KbV:file-G6P32kj4YV3y58KyP4k4qG2p",
         "reference_gzi":"project-Fkb6Gkj433GVVvj73J7x8KbV:file-G6BYz104YV3X5qp463K5b5vp",
         "ref_bcftools":"project-Fkb6Gkj433GVVvj73J7x8KbV:file-F3zxG0Q4fXX9YFjP1v5jK9jf"
-
     },
     "custom_annotations": [
       {
