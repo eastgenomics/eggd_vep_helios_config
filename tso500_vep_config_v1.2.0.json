@@ -118,6 +118,9 @@
         ]
       }
     ],
+    "additional_flags": [
+      "canonical"
+    ],
     "additional_fields":[
         "Allele",
         "SYMBOL",
@@ -130,6 +133,7 @@
         "HGVSp",
         "HGVSg",
         "HGVS_OFFSET",
-        "STRAND"
+        "STRAND",
+        "CANONICAL"
     ]
   }
