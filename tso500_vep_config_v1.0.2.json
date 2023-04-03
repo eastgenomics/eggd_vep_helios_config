@@ -2,7 +2,7 @@
     "config_information":{
         "genome_build": "GRCh37",
         "assay":"TSO500",
-        "config_version": "1.0.1"
+        "config_version": "1.0.2"
     },
         "vep_resources":{
         "vep_docker":"file-G8V2Vz0433Gp5bYPF2f6vg9X",
@@ -82,8 +82,8 @@
         "required_fields":"REVEL",
         "resource_files": [
           {
-            "file_id": "file-G9ZZGQ04jKXF2XVV7PPF04px",
-            "index_id": "file-G9ZZGQ04jKX4bYJG7X02618b"
+            "file_id": "file-G9bybYj433GbyP5X4fPGy2VX",
+            "index_id": "file-G9bygp8433GQX4f44f2Bqpb5"
           }
         ]
       },
