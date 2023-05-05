@@ -116,6 +116,61 @@
             "index_id": "file-G9G2KPj4jKXPG23VBZKYv570"
           }
         ]
+      },
+      {
+        "name": "COSMICcMuts",
+        "type": "vcf",
+        "annotation_type": "exact",
+        "force_coordinates": "0",
+        "vcf_fields": "",
+        "required_fields": "COSMICcMuts",
+        "resource_files": [
+          {
+            "file_id": "file-GQ0GbB04z18F2F8jkZJZ1k2k",
+            "index_id": "file-GQ0GbB04z18FPjKZ248ZJPgf"
+          }
+        ]
+      },
+      {
+        "name": "COSMICncMuts",
+        "type": "vcf",
+        "annotation_type": "exact",
+        "force_coordinates": "0",
+        "vcf_fields": "",
+        "required_fields": "COSMICncMuts",
+        "resource_files": [
+          {
+            "file_id": "file-GQ0GbB04z18FfZF0G10872Bp",
+            "index_id": "file-GQ0GbB04z188fvF2zjK5K9Jg"
+          }
+        ]
+      },
+      {
+        "name": "CGC",
+        "type": "bed",
+        "annotation_type": "overlap",
+        "force_coordinates": "0",
+        "required_fields": "CGC",
+        "resource_files": [
+          {
+            "file_id": "file-GQz64pj4z182438g0JqzG9Q5",
+            "index_id": "file-GQz64pj4z188kZfV4QyJxXqp"
+          }
+        ]
+      },
+      {
+        "name": "Hotspots",
+        "type": "vcf",
+        "annotation_type": "exact",
+        "force_coordinates": "0",
+        "vcf_fields": "",
+        "required_fields": "Hotspots",
+        "resource_files": [
+          {
+            "file_id": "file-GQvf9Qj4z189J5fjKYjj2JKJ",
+            "index_id": "file-GQvf9Qj4z188k2VJ9XP0xZYk"
+          }
+        ]
       }
     ],
     "additional_fields":[
