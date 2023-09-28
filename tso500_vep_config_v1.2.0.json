@@ -7,6 +7,7 @@
         "vep_resources":{
         "vep_docker":"file-GYvy03Q4KQP7QXyg0YxqF5Qx",
         "vep_cache":"file-GYvvPgj4449B8KbKBJYJKjXx",
+        "plugin_config":"file-GZB23p04Qgz7GzBY1063vZBf",
         "reference_fasta":"file-G6BYyyj4YV3pYBkgFVGP2K4P",
         "reference_fai":"file-G6P32kj4YV3y58KyP4k4qG2p",
         "reference_gzi":"file-G6BYz104YV3X5qp463K5b5vp",
@@ -59,7 +60,7 @@
     "plugins": [
     {
         "name": "SpliceAI",
-        "pm_file": "file-GQ7ZJK04vfJVPB7FKybkx0yk",
+        "pm_file": "file-GZB3qbj4jz853vKKKZ8jzjV8",
         "required_fields":"SpliceAI_pred_DS_AG,SpliceAI_pred_DS_AL,SpliceAI_pred_DS_DG,SpliceAI_pred_DS_DL,SpliceAI_pred_DP_AG,SpliceAI_pred_DP_AL,SpliceAI_pred_DP_DG,SpliceAI_pred_DP_DL",
         "suffix": "cutoff=0.5",
         "resource_files": [
@@ -77,18 +78,20 @@
       },
       {
         "name": "REVEL",
-        "pm_file": "file-GQ7Zf4047GqpFvkbQ5X4p535",
+        "pm_file": "file-GZB3q8846V95Q6x75xyJF0kB",
         "required_fields":"REVEL",
+        "suffix": "no_match=1",
         "resource_files": [
           {
             "file_id": "file-G9bybYj433GbyP5X4fPGy2VX",
-            "index_id": "file-G9bygp8433GQX4f44f2Bqpb5"
+            "index_id": "file-G9bygp8433GQX4f44f2Bqpb5",
+            "prefix": "file="
           }
         ]
       },
       {
         "name": "Mastermind",
-        "pm_file": "file-G9bv2Fj433GbZ6z64Qk2G5VG",
+        "pm_file": "file-GZB9kGQ4fqg5J58fvxqQzYQ9",
         "required_fields":"Mastermind_MMID3",
         "resource_files": [
           {
@@ -99,7 +102,7 @@
       },
       {
         "name": "CADD",
-        "pm_file": "file-GQ7ZY6841Jgv0Q5PkBbypJy0",
+        "pm_file": "file-GZB3q3Q4V6YYf2BkjK0yq3ZQ",
         "required_fields":"CADD_PHRED",
         "resource_files": [
           {
