@@ -14,14 +14,14 @@ This json file provides information about annotations,plugins, required fields a
 
 * Genome build: GRCh37
 * VEP required files:
-  * vep_v110.0.tar.gz
-  * homo_sapiens_refseq_vep_110_GRCh37.tar.gz
+  * vep_v105.0.tar.gz
+  * homo_sapiens_refseq_vep_105_GRCh37.tar.gz
   * Homo_sapiens.GRCh37.dna.toplevel.fa.gz
   * Homo_sapiens.GRCh37.dna.toplevel.fa.gz.fai
   * Homo_sapiens.GRCh37.dna.toplevel.fa.gz.gzi
   * hs37d5.fasta-index.tar.gz
 * Custom Annotation sources:
-  * clinvar_20220412_grch37.vcf.gz
+  * clinvar_20230917_grch37.vcf.gz
   * gnomad.genomes.r2.0.1.sites.noVEP_normalised_decomposed_PASS.vcf.gz
   * gnomad.exomes.r2.0.2.sites.noVEP_normalised_decomposed_PASS.vcf.gz
 * Plugin annotations:
