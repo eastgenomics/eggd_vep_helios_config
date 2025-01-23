@@ -21,7 +21,7 @@ This json file provides information about annotations,plugins, required fields a
   * Homo_sapiens.GRCh37.dna.toplevel.fa.gz.gzi
   * hs37d5.fasta-index.tar.gz
 * Custom Annotation sources:
-  * clinvar_20241215_GRCh37.vcf.gz
+  * clinvar_20250115_GRCh37.vcf.gz
   * gnomad.genomes.r2.0.1.sites.noVEP_normalised_decomposed_PASS.vcf.gz
   * gnomad.exomes.r2.0.2.sites.noVEP_normalised_decomposed_PASS.vcf.gz
 * Plugin annotations:
