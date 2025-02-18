@@ -2,7 +2,7 @@
     "config_information":{
         "genome_build": "GRCh37",
         "assay":"TSO500",
-        "config_version": "1.2.15"
+        "config_version": "1.2.16"
     },
         "vep_resources":{
         "vep_docker":"file-G8V2Vz0433Gp5bYPF2f6vg9X",
@@ -24,7 +24,7 @@
         "resource_files": [
           {
           "file_id":"file-Gy72yq84kq6k08jKY47xj903",
-          "index_id":"file-Gy731F04XGQ97KjKX09g9GVX"
+          "index_id":"file-Gykbgj841p5jqpZ12xG1fJv9"
           }
         ]
       },
