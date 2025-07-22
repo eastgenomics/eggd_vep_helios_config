@@ -2,7 +2,7 @@
     "config_information":{
         "genome_build": "GRCh37",
         "assay":"TSO500",
-        "config_version": "1.2.20"
+        "config_version": "1.2.21"
     },
         "vep_resources":{
         "vep_docker":"file-G8V2Vz0433Gp5bYPF2f6vg9X",
@@ -23,8 +23,8 @@
         "required_fields":"ClinVar,ClinVar_CLNSIG,ClinVar_CLNSIGCONF,ClinVar_CLNDN",
         "resource_files": [
           {
-          "file_id":"file-J17ykk04qp2JqxgQxk3BbXVp",
-          "index_id":"file-J17yp5Q4gBk0kZZ9BFFvxJv7"
+          "file_id":"file-J1z1B3j44F2j6g5Jg4bpv1B8",
+          "index_id":"file-J1z1JK844PVf8BjXkZ7zz8K6"
           }
         ]
       },
