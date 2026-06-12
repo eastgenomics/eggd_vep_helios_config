@@ -2,7 +2,7 @@
   "config_information": {
     "genome_build": "GRCh37",
     "assay": "TSO500",
-    "config_version": "1.2.31"
+    "config_version": "1.2.32"
   },
   "vep_resources": {
     "vep_docker": "file-G8V2Vz0433Gp5bYPF2f6vg9X",
@@ -23,8 +23,8 @@
       "required_fields": "ClinVar,ClinVar_CLNSIG,ClinVar_CLNSIGCONF,ClinVar_CLNDN",
       "resource_files": [
         {
-          "file_id": "file-J81Pq7Q4Jy1YpQX8YF00zb3J",
-          "index_id": "file-J81Pvyj48gJBQq5ZqzxBZ37J"
+          "file_id": "file-J8Yx8J84kKj1BvFFJp3bKbKb",
+          "index_id": "file-J8Yx8zj45GV0Vvy9BBX0zP59"
         }
       ]
     },
@@ -104,16 +104,12 @@
       "required_fields": "CADD_PHRED",
       "resource_files": [
         {
-          "file_id": "file-G5KjGZ84YV3xFfv221vJQjQZ",
-          "index_id": "file-G5KjKf84YV3y39z97vbXJ60b"
+          "file_id": "file-GvXJbF84Bz4Gqx356j7FJjfv",
+          "index_id": "file-GvXJ7qj42ZYYG2yypqQJX8yK"
         },
         {
-          "file_id": "file-G6BYB5Q433GvQGgF58976p7J",
-          "index_id": "file-G6BYB8j433GyJ3f13z8GB4ZV"
-        },
-        {
-          "file_id": "file-G9G2KKj4jKX8xxK7975q7XgX",
-          "index_id": "file-G9G2KPj4jKXPG23VBZKYv570"
+          "file_id": "file-GvXJb6j4Q58120k7KzBGGbFq",
+          "index_id": "file-GvXJbP84FzbjgpV6Z1Q6b88z"
         }
       ]
     }

@@ -21,16 +21,15 @@ This json file provides information about annotations,plugins, required fields a
   * Homo_sapiens.GRCh37.dna.toplevel.fa.gz.gzi
   * hs37d5.fasta-index.tar.gz
 * Custom Annotation sources:
-  * clinvar_20260510_GRCh37.vcf.gz
+  * clinvar_20260606_GRCh37.vcf.gz
   * gnomad.genomes.r2.0.1.sites.noVEP_normalised_decomposed_PASS.vcf.gz
   * gnomad.exomes.r2.0.2.sites.noVEP_normalised_decomposed_PASS.vcf.gz
 * Plugin annotations:
   * REVEL (version May 2022)
     * revel_b37.tsv.gz
-  * CADD (v1.6)
-    * cadd_whole_genome_SNVs_GRCh37.tsv.gz
-    * gnomad.genomes.r2.1.1.indel.tsv.gz
-    * InDels_GRCh37.tsv.gz
+  * CADD (v1.7)
+    * cadd_1.7_b37_whole_genome_SNVs.tsv.gz
+    * cadd.1.7.b37.gnomad.genomes-exomes.r4.0.indel.tsv.gz
   * SpliceAI
     * spliceai_scores.masked.snv.hg19.vcf.gz
     * spliceai_scores.masked.indel.hg19.vcf.gz
