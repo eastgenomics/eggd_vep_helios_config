@@ -104,16 +104,12 @@
       "required_fields": "CADD_PHRED",
       "resource_files": [
         {
-          "file_id": "file-G5KjGZ84YV3xFfv221vJQjQZ",
-          "index_id": "file-G5KjKf84YV3y39z97vbXJ60b"
+          "file_id": "file-GvXJbF84Bz4Gqx356j7FJjfv",
+          "index_id": "file-GvXJ7qj42ZYYG2yypqQJX8yK"
         },
         {
-          "file_id": "file-G6BYB5Q433GvQGgF58976p7J",
-          "index_id": "file-G6BYB8j433GyJ3f13z8GB4ZV"
-        },
-        {
-          "file_id": "file-G9G2KKj4jKX8xxK7975q7XgX",
-          "index_id": "file-G9G2KPj4jKXPG23VBZKYv570"
+          "file_id": "file-GvXJb6j4Q58120k7KzBGGbFq",
+          "index_id": "file-GvXJbP84FzbjgpV6Z1Q6b88z"
         }
       ]
     }
